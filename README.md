@@ -2,6 +2,9 @@
 
 I will be using the EliteProspects scouting guide to perform NLP Topic Modelling on the NHL draft.
 
+<img width="791" alt="WordCloud" src="https://user-images.githubusercontent.com/110205528/209721902-3fb1532a-0abd-48a0-9be7-82a6e8fd00ed.png">
+
+
 # Scouting Reports and Topic Modelling
 
 A frequent topic of debate in the scouting world is the debate between prospect production vs scouting analysis.  It's typically the case that high producing players eventually find their way to the NHL, but not enough for it to become a rule for scouts to lean on when an evaluation becomes tough.
